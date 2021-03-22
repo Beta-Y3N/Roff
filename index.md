@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/79371323/112046981-e94c7280-8b09-11eb-8b27-4e492e3e1bf8.png)
+![image](https://user-images.githubusercontent.com/79371323/112052530-785c8900-8b10-11eb-8ff1-dba6891a3fe4.jpeg)
 ## Welcome to GitHub Pages
 .
 ### [editor on GitHub](https://github.com/Beta-Y3N/JavaScript/edit/gh-pages/index.md)
